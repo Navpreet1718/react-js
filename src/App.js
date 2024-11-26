@@ -12,6 +12,7 @@ import ProductList from './component/ProductList';
 function App() {
   return (
     <div className="App">
+      <h1>hey there</h1>
       <BrowserRouter>
      <NavBar />
   <Routes>
